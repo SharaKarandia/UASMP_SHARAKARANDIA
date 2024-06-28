@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638469533134",
+    "project_id": "sentasi-47177",
+    "storage_bucket": "sentasi-47177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638469533134:android:6a450928be2acd1b8acf9f",
+        "android_client_info": {
+          "package_name": "com.app.sentasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABkjOePKpB7k8WvJcY3UZUOaiK9dksxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638469533134:android:64daa75f7ac05a1a8acf9f",
+        "android_client_info": {
+          "package_name": "com.benoitletondor.easybudgetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABkjOePKpB7k8WvJcY3UZUOaiK9dksxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
